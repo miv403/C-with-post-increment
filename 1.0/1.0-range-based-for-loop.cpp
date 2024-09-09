@@ -14,3 +14,9 @@ int main() {
         std::cout << "value: " << values[i] << "\n";
     }
 }
+
+int func(int x) {
+
+    return x*x*x;
+
+}

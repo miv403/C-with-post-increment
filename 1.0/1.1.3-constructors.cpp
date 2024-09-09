@@ -1,5 +1,4 @@
 #include <iostream>
-#include <cstdio>
 
 struct ClockOfTheLongNow {
     ClockOfTheLongNow(int year_in) {
