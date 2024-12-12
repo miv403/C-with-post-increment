@@ -114,6 +114,8 @@ void does_not_compile(const Avout& avout) {
 }
 ```
 
+## initializing members
+
 ### member initializer lists
 
 ```c
